@@ -1,37 +1,34 @@
-*GUI(1)*UserPrjDat:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\fshmi.bin
-*GUI(1)*PicResDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Images\
-*GUI(1)*TtfResDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Fonts\
-*GUI(1)*AudResDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Audio\
-*GUI(1)*PlcDrvDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Device\
-*GUI(1)*MacroDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Macro\
-*GUI(1)*RcpDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\temp\disk\hmi\rcp\
+*GUI(1)*UserPrjDat:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\fshmi.bin
+*GUI(1)*PicResDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Images\
+*GUI(1)*TtfResDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Fonts\
+*GUI(1)*AudResDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Audio\
+*GUI(1)*PlcDrvDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Device\
+*GUI(1)*MacroDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Macro\
+*GUI(1)*RcpDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\temp\disk\hmi\rcp\
 *GUI(1)*SysFrmBuf:<XPixs>1024</XPixs><YPixs>600</YPixs><ColorBits>24</ColorBits>
-*GUI(1)*HmiDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\temp\disk\hmi\
-*GUI(1)*SdDir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\temp\disk\sd\
-*GUI(1)*Usb1Dir:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\temp\disk\usb1\
+*GUI(1)*HmiDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\temp\disk\hmi\
+*GUI(1)*SdDir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\temp\disk\sd\
+*GUI(1)*Usb1Dir:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\temp\disk\usb1\
 *GUI(1)*Usb2Dir:E:\Programs\Bin\
-*GUI(1)*MemFs:E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\temp\ramdisk\
+*GUI(1)*MemFs:E:\_Projects\_Current\Inrow_Rievtech_2.1.0\temp\ramdisk\
 *GUI(1)*RunMode:SimPlc
 *GUI(1)*Debug:N
 *GUI(1)*SysFontDir:E:\Programs\Lib\Fonts\
 *GUI(1)*MapPort:1234
 *GUI(1)*SimRamSize:128
 *GUI(1)*SimExitTime:14400
-*GUI(1)*ProjectCheckSum(0x28fbe88, 0x28fb835)
 *GUI(1)*ClientMonit::Pid(0)
 *GUI(1)*LightSave 0 BackLight 0 LightPercent 0
 *GUI(1)*DoLoadTtfFile::Pid(0)
 *GUI(1)*loadTtfFile(E:\Programs\Lib\Fonts\puhui-regular.ttf) OK
-*GUI(1)*loadTtfFile(E:\_Projects\_Current\Inrow_Rievtech_2.0.1B\Bin\Fonts\ARIAL.TTF) OK
+*GUI(1)*loadTtfFile(E:\_Projects\_Current\Inrow_Rievtech_2.1.0\Bin\Fonts\ARIAL.TTF) OK
 *GUI(1)*loadTtfFile(E:\Programs\Lib\Fonts\puhui-medium.ttf) OK
 *GUI(1)*Touch::Pid(0),interval=0
-*GUI(1)*MacMonitor(13)::Pid(0)
+*GUI(1)*[1]HmiWinLoadUserData[86000]
+
+*GUI(1)*MacMonitor(12)::Pid(0)
 *GUI(1)*MacMonitor(16)::Pid(0)
+*GUI(1)*[1]HmiWinLoadUserData[54000]
+
 *GUI(1)*MacMonitor(5)::Pid(0)
 *GUI(1001)*MacMonitor(8)::Pid(0)
-*GUI(37601)*MACRO RT Read timeout retry= 2 
-*GUI(165801)*MacMonitor(9)::Pid(0)
-*GUI(455901)*MacMonitor(11)::Pid(0)
-*GUI(456901)*MacMonitor(10)::Pid(0)
-*GUI(461001)*MacMonitor(1)::Pid(0)
-*GUI(466101)*MacMonitor(7)::Pid(0)
